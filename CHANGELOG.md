@@ -1,6 +1,12 @@
 Change Log
 ==========
 
+Version 1.0.6 *(2018-03-22)*
+----------------------------
+
+ * Update ThreeTenBP dependency to 1.3.6 ([change log][threeten133]).
+
+
 Version 1.0.5 *(2017-02-02)*
 ----------------------------
 
